@@ -1,1 +1,1 @@
-# Employee_Quiting_Second_Capstone
+# Employee_Quiting_FROM_JOB_Second_Capstone
