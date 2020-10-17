@@ -21,7 +21,16 @@ Idea for further Research: If we prioritize the employee according to the most c
 3-Give new Joining better opportunities and Responsibilities.
 4-Provide accommodation to staff nearby to  his/her station working.
 
-*performance metrics of Logistics Model*
+
+
+
+
+
+
+*performance metrics of Best Model*
+
+
+
 ![Metrics](https://github.com/ravicodry/Employee_leaving/blob/master/Images/Logistic_performance.jpg)
 
 
