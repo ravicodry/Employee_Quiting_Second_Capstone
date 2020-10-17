@@ -14,6 +14,7 @@ Secondly, company is investing so much time and money on hiring precess.They wan
 3-Less involved employees tend to leave the company.
 4- experienced (low job level) tend to leave the company.
 Idea for further Research: If we prioritize the employee according to the most critical job role in the organisation or skilled people and Job role which requires more time and effort to get hired.
+
 **Recommendation**:
 1- Required change in promotion policy of Customer Representative agents so that they can see their future in the same organisation.
 2-Try to engage employees in extra curricular activity so that they have more attachment to the organisation.
